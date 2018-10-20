@@ -1,3 +1,7 @@
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
+
 [tool.poetry]
 name = "flake8-import-order-tbm"
 description = "flake8-import-order style plugin for my (thebigmunch) taste."
