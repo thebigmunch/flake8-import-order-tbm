@@ -1,5 +1,8 @@
 # flake8-import-order-tbm
 
+[![PyPI](https://img.shields.io/pypi/v/flake8-import-order-tbm.svg?label=PyPI)](https://pypi.org/project/flake8-import-order-tbm/)
+![](https://img.shields.io/badge/Python-3.6%2B-blue.svg)
+
 [flake8-import-order-tbm](https://github.com/thebigmunch/flake8-import-order-tbm) is a style for
 [flake8-import-order](https://github.com/PyCQA/flake8-import-order).
 
