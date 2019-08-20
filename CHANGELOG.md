@@ -8,6 +8,9 @@ This project adheres to [Semantic Versioning](https://semver.org).
 
 [Commits](https://github.com/thebigmunch/flake8-import-order-tbm/compare/1.0.0...master)
 
+### Changed
+
+* Update natsort dependency version.
 
 
 ## [1.0.0](https://github.com/thebigmunch/flake8-import-order-tbm/releases/tag/1.0.0) (2018-09-24)
