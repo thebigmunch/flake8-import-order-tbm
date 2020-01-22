@@ -2,7 +2,7 @@
 
 [![PyPI](https://img.shields.io/pypi/v/flake8-import-order-tbm.svg?label=PyPI)](https://pypi.org/project/flake8-import-order-tbm/)
 ![](https://img.shields.io/badge/Python-3.6%2B-blue.svg)  
-[![Travis](https://img.shields.io/travis/thebigmunch/flake8-import-order-tbm.svg?label=Travis)](https://travis-ci.org/thebigmunch/flake8-import-order-tbm)  
+[![GitHub CI](https://img.shields.io/github/workflow/status/thebigmunch/flake8-import-order-tbm/CI?label=GitHub%20CI)](https://github.com/thebigmunch/flake8-import-order-tbm/actions?query=workflow%3ACI)  
 
 [flake8-import-order-tbm](https://github.com/thebigmunch/flake8-import-order-tbm) is a style for
 [flake8-import-order](https://github.com/PyCQA/flake8-import-order).
