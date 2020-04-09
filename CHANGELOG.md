@@ -6,7 +6,16 @@ This project adheres to [Semantic Versioning](https://semver.org).
 
 ## [Unreleased](https://github.com/thebigmunch/flake8-import-order-tbm/tree/master)
 
-[Commits](https://github.com/thebigmunch/flake8-import-order-tbm/compare/1.1.0...master)
+[Commits](https://github.com/thebigmunch/flake8-import-order-tbm/compare/1.2.0...master)
+
+
+## [1.2.0](https://github.com/thebigmunch/flake8-import-order-tbm/releases/tag/1.2.0) (20120-04-08)
+
+[Commits](https://github.com/thebigmunch/flake8-import-order-tbm/compare/1.1.0...1.2.0)
+
+### Changed
+
+* Update dependency versions.
 
 
 ## [1.1.0](https://github.com/thebigmunch/flake8-import-order-tbm/releases/tag/1.1.0) (2019-08-20)
