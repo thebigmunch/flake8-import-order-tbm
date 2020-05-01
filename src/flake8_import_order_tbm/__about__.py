@@ -14,7 +14,7 @@ __title__ = 'flake8-import-order-tbm'
 __summary__ = "thebigmunch's import order style for flake8-import-order."
 __url__ = 'https://github.com/thebigmunch/flake8-import-order-tbm'
 
-__version__ = '1.1.0'
+__version__ = '1.3.0'
 __version_info__ = tuple(int(i) for i in __version__.split('.') if i.isdigit())
 
 __author__ = 'thebigmunch'

@@ -5,7 +5,7 @@ build-backend = "poetry.masonry.api"
 [tool.poetry]
 name = "flake8-import-order-tbm"
 description = "flake8-import-order style plugin for my (thebigmunch) taste."
-version = "1.2.0"
+version = "1.3.0"
 
 license = "MIT"
 
