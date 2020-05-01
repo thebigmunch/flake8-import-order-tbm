@@ -10,22 +10,15 @@ __all__ = [
 	'__version_info__',
 ]
 
-try:
-	from importlib.metadata import metadata
-except ImportError:
-	from importlib_metadata import metadata
+__title__ = 'flake8-import-order-tbm'
+__summary__ = "thebigmunch's import order style for flake8-import-order."
+__url__ = 'https://github.com/thebigmunch/flake8-import-order-tbm'
 
-meta = metadata('flake8-import-order-tbm')
-
-__title__ = meta['Name']
-__summary__ = meta['Summary']
-__url__ = meta['Home-page']
-
-__version__ = meta['Version']
+__version__ = '1.1.0'
 __version_info__ = tuple(int(i) for i in __version__.split('.') if i.isdigit())
 
-__author__ = meta['Author']
-__author_email__ = meta['Author-email']
+__author__ = 'thebigmunch'
+__author_email__ = 'mail@thebigmunch.me'
 
-__license__ = meta['License']
+__license__ = 'MIT'
 __copyright__ = f'2018-2020 {__author__} <{__author_email__}>'
