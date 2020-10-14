@@ -4,9 +4,9 @@ Notable changes to this project based on the [Keep a Changelog](https://keepacha
 This project adheres to [Semantic Versioning](https://semver.org).
 
 
-## [Unreleased](https://github.com/thebigmunch/flake8-import-order-tbm/tree/master)
+## [Unreleased](https://github.com/thebigmunch/flake8-import-order-tbm/tree/main)
 
-[Commits](https://github.com/thebigmunch/flake8-import-order-tbm/compare/1.3.0...master)
+[Commits](https://github.com/thebigmunch/flake8-import-order-tbm/compare/1.3.0...main)
 
 
 ## [1.3.0](https://github.com/thebigmunch/flake8-import-order-tbm/releases/tag/1.3.0) (2020-05-01)
